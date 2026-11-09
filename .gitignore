@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Raw datasets
+scopes/*/data/raw/*
+scopes/*/data/extracted/*
+
+# Intermediate and processed data
+scopes/*/data/interim/*
+scopes/*/data/processed/*
+scopes/*/data/external/*
+
+# Keep folder structures
+!scopes/*/data/raw/.gitkeep
+!scopes/*/data/extracted/.gitkeep
+!scopes/*/data/interim/.gitkeep
+!scopes/*/data/processed/.gitkeep
+!scopes/*/data/external/.gitkeep
