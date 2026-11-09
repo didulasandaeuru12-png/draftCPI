@@ -1,0 +1,27 @@
+column,meaning,missing_policy
+date,date,unavailable; never assumed zero
+year,year,unavailable; never assumed zero
+category,category,unavailable; never assumed zero
+source_date_label,source date label,unavailable; never assumed zero
+lp_95,Petrol 95 octane,unavailable; never assumed zero
+lp_92,Petrol 92 octane,unavailable; never assumed zero
+lad,Auto diesel,unavailable; never assumed zero
+lsd,Super diesel,unavailable; never assumed zero
+lk,Kerosene,unavailable; never assumed zero
+lik,Industrial kerosene,unavailable; never assumed zero
+fur_800,Furnace oil 800,unavailable; never assumed zero
+fur_1500_high,Furnace oil 1500 High,unavailable; never assumed zero
+fur_1500_low,Furnace oil 1500 Low,unavailable; never assumed zero
+source_note,source note,unavailable; never assumed zero
+data_quality_note,data quality note,unavailable; never assumed zero
+source_record_id,source record id,unavailable; never assumed zero
+source_index,source index,unavailable; never assumed zero
+source_url,source url,unavailable; never assumed zero
+source_api_url,source api url,unavailable; never assumed zero
+retrieved_on,retrieved on,unavailable; never assumed zero
+date_precision,date precision,unavailable; never assumed zero
+effective_time_local,effective time local,unavailable; never assumed zero
+cleaning_flags,cleaning flags,unavailable; never assumed zero
+has_cleaning_issue,has cleaning issue,unavailable; never assumed zero
+supplement_source_file,supplement source file,unavailable; never assumed zero
+supplement_verified_fields,supplement verified fields,unavailable; never assumed zero

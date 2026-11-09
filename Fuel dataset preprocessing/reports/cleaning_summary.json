@@ -1,0 +1,18 @@
+{
+  "cpc_fuel_records": 185,
+  "cleaned_fuel_records": 185,
+  "first_date": "1990-03-01",
+  "last_date": "2026-11-02",
+  "supplied_rows": 513,
+  "supplied_diesel_kerosene_rows": 299,
+  "reconciliation": {
+    "matched_existing": 299
+  },
+  "invalid_numeric_cells": 1,
+  "checks_passed": 10,
+  "checks_total": 10,
+  "input_sha256": {
+    "ceypetco_historical_prices_all.csv": "8eacf1e5af41781ca0137aba7f7e401ac460f33b3704277ff9d3b7dbb453482e",
+    "fuel-prices-2026-10-15.csv": "24bb671378b48b70e6f4cbd919d06845b92f0bed1611ae7f77142948d6fb6b00"
+  }
+}

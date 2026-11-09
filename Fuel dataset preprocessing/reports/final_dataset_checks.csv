@@ -1,0 +1,9 @@
+check,passed
+nine_fuel_types,True
+one_row_per_source_record_and_fuel,True
+all_source_record_fuel_pairs_preserved,True
+all_supplied_observations_matched,True
+all_observed_prices_positive,True
+all_dates_valid,True
+missing_prices_have_explicit_status,True
+source_price_round_trip_preserved,True

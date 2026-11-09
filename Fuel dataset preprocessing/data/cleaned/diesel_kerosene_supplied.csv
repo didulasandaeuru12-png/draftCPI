@@ -1,0 +1,300 @@
+﻿date,indicator,value,unit,geography,status,source
+1990-03-01,Auto diesel,9.6,Rs per litre,LK,unflagged,cpc-historical-prices-api
+1990-03-01,Super diesel,10.9,Rs per litre,LK,unflagged,cpc-historical-prices-api
+1990-03-01,Kerosene,6.58,Rs per litre,LK,unflagged,cpc-historical-prices-api
+1990-08-14,Auto diesel,11.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+1990-08-14,Super diesel,12.5,Rs per litre,LK,unflagged,cpc-historical-prices-api
+1990-08-14,Kerosene,8.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+1990-11-05,Auto diesel,13.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+1990-11-05,Super diesel,15.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+1990-11-05,Kerosene,8.8,Rs per litre,LK,unflagged,cpc-historical-prices-api
+1990-12-26,Auto diesel,11.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+1990-12-26,Super diesel,13.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+1992-05-13,Auto diesel,11.5,Rs per litre,LK,unflagged,cpc-historical-prices-api
+1992-05-13,Super diesel,13.5,Rs per litre,LK,unflagged,cpc-historical-prices-api
+1992-06-28,Super diesel,14.5,Rs per litre,LK,unflagged,cpc-historical-prices-api
+1992-07-14,Auto diesel,11.55,Rs per litre,LK,unflagged,cpc-historical-prices-api
+1992-10-03,Auto diesel,11.6,Rs per litre,LK,unflagged,cpc-historical-prices-api
+1992-12-21,Auto diesel,11.65,Rs per litre,LK,unflagged,cpc-historical-prices-api
+1993-06-07,Auto diesel,11.7,Rs per litre,LK,unflagged,cpc-historical-prices-api
+1993-06-11,Kerosene,11.8,Rs per litre,LK,unflagged,cpc-historical-prices-api
+1993-07-12,Auto diesel,11.8,Rs per litre,LK,unflagged,cpc-historical-prices-api
+1993-07-12,Super diesel,14.6,Rs per litre,LK,unflagged,cpc-historical-prices-api
+1993-08-30,Auto diesel,11.9,Rs per litre,LK,unflagged,cpc-historical-prices-api
+1993-08-30,Super diesel,14.7,Rs per litre,LK,unflagged,cpc-historical-prices-api
+1993-10-14,Auto diesel,12.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+1993-10-14,Super diesel,14.8,Rs per litre,LK,unflagged,cpc-historical-prices-api
+1993-12-17,Auto diesel,12.2,Rs per litre,LK,unflagged,cpc-historical-prices-api
+1993-12-17,Super diesel,15.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+1994-02-17,Auto diesel,12.3,Rs per litre,LK,unflagged,cpc-historical-prices-api
+1994-02-17,Super diesel,15.1,Rs per litre,LK,unflagged,cpc-historical-prices-api
+1994-03-28,Auto diesel,12.4,Rs per litre,LK,unflagged,cpc-historical-prices-api
+1994-03-28,Super diesel,12.2,Rs per litre,LK,unflagged,cpc-historical-prices-api
+1994-06-28,Auto diesel,11.4,Rs per litre,LK,unflagged,cpc-historical-prices-api
+1994-06-28,Super diesel,14.2,Rs per litre,LK,unflagged,cpc-historical-prices-api
+1994-06-28,Kerosene,9.5,Rs per litre,LK,unflagged,cpc-historical-prices-api
+1995-02-09,Auto diesel,12.4,Rs per litre,LK,unflagged,cpc-historical-prices-api
+1995-02-09,Super diesel,15.2,Rs per litre,LK,unflagged,cpc-historical-prices-api
+1996-09-28,Auto diesel,13.2,Rs per litre,LK,unflagged,cpc-historical-prices-api
+1996-09-28,Super diesel,18.5,Rs per litre,LK,unflagged,cpc-historical-prices-api
+1996-09-28,Kerosene,10.4,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2000-02-07,Auto diesel,16.2,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2000-02-07,Super diesel,21.5,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2000-02-07,Kerosene,15.4,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2000-06-12,Auto diesel,19.5,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2000-06-12,Super diesel,24.8,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2000-11-16,Auto diesel,21.5,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2000-11-16,Super diesel,26.8,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2000-11-16,Kerosene,17.4,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2000-12-27,Auto diesel,24.5,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2000-12-27,Super diesel,29.8,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2000-12-27,Kerosene,18.4,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2001-04-15,Auto diesel,27.5,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2001-04-15,Super diesel,32.8,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2001-04-15,Kerosene,19.4,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2001-11-15,Kerosene,17.4,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2001-12-28,Auto diesel,16.5,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2001-12-28,Super diesel,31.8,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2002-02-25,Auto diesel,26.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2002-02-25,Super diesel,31.3,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2002-04-22,Auto diesel,28.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2002-04-22,Super diesel,33.3,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2002-04-22,Kerosene,19.4,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2002-05-21,Auto diesel,30.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2002-05-21,Super diesel,35.3,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2002-05-21,Kerosene,20.9,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2002-06-21,Auto diesel,30.5,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2002-07-15,Auto diesel,27.5,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2002-07-15,Super diesel,32.8,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2002-07-15,Kerosene,20.5,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2002-07-29,Kerosene,20.4,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2002-08-15,Auto diesel,28.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2002-08-15,Super diesel,33.3,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2002-08-15,Kerosene,21.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2002-09-16,Auto diesel,28.5,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2002-09-16,Super diesel,33.8,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2002-09-16,Kerosene,22.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2002-10-15,Auto diesel,30.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2002-10-15,Super diesel,35.3,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2002-10-15,Kerosene,24.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2003-09-04,Auto diesel,31.5,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2003-09-04,Super diesel,36.8,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2003-09-04,Kerosene,25.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2003-10-05,Auto diesel,30.5,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2003-10-05,Super diesel,35.8,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2003-10-05,Kerosene,23.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2003-11-11,Auto diesel,31.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2003-11-11,Super diesel,36.3,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2003-11-11,Kerosene,23.5,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2003-12-04,Auto diesel,32.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2003-12-04,Super diesel,37.3,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2003-12-04,Kerosene,25.5,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2004-01-25,Super diesel,37.5,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2004-08-13,Auto diesel,36.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2004-08-13,Super diesel,41.3,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2004-09-25,Auto diesel,44.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2004-09-25,Super diesel,49.3,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2005-05-05,Auto diesel,46.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2005-05-05,Super diesel,51.3,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2005-05-05,Kerosene,28.5,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2005-06-06,Auto diesel,50.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2005-06-06,Super diesel,55.3,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2005-06-06,Kerosene,30.5,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2006-04-16,Auto diesel,58.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2006-04-16,Super diesel,63.3,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2006-04-16,Kerosene,38.5,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2006-06-11,Auto diesel,61.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2006-06-11,Super diesel,68.3,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2006-06-11,Kerosene,43.5,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2006-08-02,Auto diesel,64.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2006-08-02,Super diesel,69.3,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2006-08-02,Kerosene,45.5,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2006-10-26,Auto diesel,60.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2006-10-26,Super diesel,65.3,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2006-10-26,Kerosene,48.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2007-04-19,Auto diesel,63.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2007-04-19,Super diesel,68.3,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2007-04-28,Auto diesel,65.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2007-04-28,Super diesel,70.3,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2007-04-28,Kerosene,50.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2007-05-12,Auto diesel,67.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2007-05-12,Super diesel,72.3,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2007-05-12,Kerosene,51.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2007-06-30,Auto diesel,71.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2007-06-30,Super diesel,76.3,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2007-06-30,Kerosene,67.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2007-07-29,Auto diesel,75.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2007-07-29,Super diesel,80.3,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2007-07-29,Kerosene,68.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2008-01-14,Auto diesel,80.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2008-01-14,Super diesel,85.3,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2008-01-14,Kerosene,70.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2008-05-25,Auto diesel,110.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2008-05-25,Super diesel,125.3,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2008-05-25,Kerosene,80.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2008-11-07,Auto diesel,80.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2008-11-07,Super diesel,95.3,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2008-11-07,Kerosene,60.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2008-12-30,Auto diesel,70.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2008-12-30,Super diesel,85.3,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2008-12-30,Kerosene,50.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2009-07-02,Auto diesel,73.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2009-07-02,Super diesel,88.3,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2009-07-02,Kerosene,51.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2011-04-01,Auto diesel,76.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2011-04-01,Super diesel,98.3,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2011-04-01,Kerosene,61.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2011-10-30,Auto diesel,84.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2011-10-30,Super diesel,106.3,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2011-10-30,Kerosene,71.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2012-02-12,Auto diesel,115.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2012-02-12,Super diesel,142.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2012-02-12,Kerosene,106.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2013-02-23,Auto diesel,121.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2013-02-23,Super diesel,145.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2014-09-17,Auto diesel,118.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2014-09-17,Super diesel,140.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2014-09-17,Kerosene,86.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2014-12-05,Auto diesel,111.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2014-12-05,Super diesel,133.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2014-12-05,Kerosene,81.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2015-01-22,Auto diesel,95.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2015-01-22,Super diesel,110.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2015-01-22,Kerosene,65.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2015-01-29,Kerosene,59.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2015-11-28,Kerosene,49.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2017-01-11,Kerosene,44.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2018-05-11,Auto diesel,109.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2018-05-11,Super diesel,119.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2018-05-11,Kerosene,101.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2018-06-13,Kerosene,70.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2018-07-11,Auto diesel,118.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2018-07-11,Super diesel,129.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2018-08-11,Super diesel,130.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2018-09-11,Auto diesel,123.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2018-09-11,Super diesel,133.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2018-10-11,Super diesel,141.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2018-11-02,Auto diesel,116.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2018-11-16,Auto diesel,111.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2018-11-16,Super diesel,136.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2018-12-01,Auto diesel,106.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2018-12-01,Super diesel,131.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2018-12-22,Auto diesel,101.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2018-12-22,Super diesel,121.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2019-01-11,Auto diesel,99.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2019-01-11,Super diesel,118.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2019-02-12,Auto diesel,103.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2019-02-12,Super diesel,129.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2019-03-13,Auto diesel,104.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2019-03-13,Super diesel,134.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2019-05-11,Super diesel,136.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2019-07-11,Super diesel,131.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2019-08-13,Super diesel,134.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2019-09-10,Super diesel,132.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2021-06-11,Auto diesel,111.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2021-06-11,Super diesel,144.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2021-06-11,Kerosene,77.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2021-12-20,Auto diesel,121.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2021-12-20,Super diesel,159.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2021-12-20,Kerosene,87.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2022-03-11,Auto diesel,176.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2022-03-11,Super diesel,254.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2022-04-18,Auto diesel,289.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2022-04-18,Super diesel,329.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2022-05-24,Auto diesel,400.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2022-05-24,Super diesel,445.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2022-06-26,Auto diesel,460.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2022-06-26,Super diesel,520.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2022-07-17,Auto diesel,440.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2022-07-17,Super diesel,510.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2022-08-01,Auto diesel,430.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2022-08-21,Kerosene,340.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2022-10-17,Auto diesel,415.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2022-11-12,Auto diesel,430.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2022-11-12,Kerosene,365.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2022-12-06,Auto diesel,420.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2023-01-03,Auto diesel,405.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2023-01-03,Kerosene,355.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2023-03-02,Kerosene,305.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2023-03-30,Auto diesel,325.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2023-03-30,Super diesel,465.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2023-03-30,Kerosene,295.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2023-05-01,Auto diesel,310.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2023-05-01,Super diesel,330.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2023-06-01,Super diesel,340.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2023-06-01,Kerosene,245.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2023-07-01,Auto diesel,308.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2023-07-01,Super diesel,346.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2023-07-01,Kerosene,236.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2023-08-01,Auto diesel,306.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2023-08-01,Super diesel,358.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2023-08-01,Kerosene,226.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2023-09-01,Auto diesel,341.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2023-09-01,Super diesel,359.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2023-09-01,Kerosene,231.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2023-10-02,Auto diesel,351.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2023-10-02,Super diesel,421.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2023-10-02,Kerosene,242.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2023-11-01,Auto diesel,356.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2023-11-01,Super diesel,431.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2023-11-01,Kerosene,249.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2023-12-01,Auto diesel,329.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2023-12-01,Super diesel,434.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2023-12-01,Kerosene,247.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2024-01-01,Auto diesel,358.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2024-01-01,Super diesel,475.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2024-01-01,Kerosene,236.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2024-02-01,Auto diesel,363.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2024-02-01,Super diesel,468.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2024-02-01,Kerosene,262.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2024-03-05,Super diesel,458.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2024-03-05,Kerosene,257.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2024-04-01,Super diesel,386.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2024-04-01,Kerosene,245.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2024-05-01,Auto diesel,333.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2024-05-01,Super diesel,377.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2024-05-01,Kerosene,215.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2024-06-01,Auto diesel,317.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2024-06-01,Kerosene,202.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2024-07-01,Super diesel,355.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2024-09-01,Auto diesel,307.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2024-09-01,Super diesel,352.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2024-10-01,Auto diesel,283.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2024-10-01,Super diesel,319.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2024-10-01,Kerosene,183.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2024-11-01,Super diesel,313.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2024-12-01,Auto diesel,286.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2024-12-01,Kerosene,188.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2025-01-01,Kerosene,183.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2025-02-01,Super diesel,331.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2025-04-30,Auto diesel,274.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2025-04-30,Super diesel,325.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2025-04-30,Kerosene,178.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2025-07-01,Auto diesel,289.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2025-07-01,Kerosene,185.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2025-09-01,Auto diesel,283.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2025-09-01,Super diesel,313.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2025-10-01,Auto diesel,277.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2025-10-01,Kerosene,180.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2025-11-01,Super diesel,318.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2026-01-06,Auto diesel,279.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2026-01-06,Super diesel,323.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2026-01-06,Kerosene,182.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2026-02-01,Auto diesel,277.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2026-03-01,Auto diesel,281.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2026-03-01,Super diesel,329.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2026-03-10,Auto diesel,303.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2026-03-10,Super diesel,353.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2026-03-10,Kerosene,195.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2026-03-22,Auto diesel,382.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2026-03-22,Super diesel,443.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2026-03-22,Kerosene,255.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2026-05-03,Auto diesel,392.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2026-05-03,Super diesel,458.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2026-05-03,Kerosene,265.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2026-05-31,Auto diesel,407.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2026-05-31,Super diesel,478.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2026-05-31,Kerosene,285.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2026-06-30,Auto diesel,382.0,Rs per litre,LK,unflagged,cpc-historical-prices-api
+2026-10-01,Auto diesel,392.0,Rs per litre,LK,unflagged,cpc-historical-prices
+2026-10-01,Super diesel,528.0,Rs per litre,LK,unflagged,cpc-historical-prices

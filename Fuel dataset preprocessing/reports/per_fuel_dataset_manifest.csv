@@ -1,0 +1,10 @@
+fuel_type,filename,records,observed_prices,missing_prices,first_date,last_date,sha256
+Petrol 92,petrol_92_cleaned.csv,185,185,0,1990-03-01,2026-11-02,d3a7ca3b439bc568a9710cca9801b0a8e1147f34f4c764dcebe8a3dffdd6460a
+Petrol 95,petrol_95_cleaned.csv,185,185,0,1990-03-01,2026-11-02,e052fd315caffa90afddda554d4285d0d1543b75fbb998cda95519215bcfdc6d
+Auto Diesel,auto_diesel_cleaned.csv,185,185,0,1990-03-01,2026-11-02,3d6c208852927ea46a8edbbe865521c607e21378a63a05a925f9e37bcd95419e
+Super Diesel,super_diesel_cleaned.csv,185,185,0,1990-03-01,2026-11-02,7f826449cbc4bfa3d1236247b60475188e7dee7d7742649e964922071c4f6d2c
+Kerosene,kerosene_cleaned.csv,185,185,0,1990-03-01,2026-11-02,6e656f7206446777b245f8bab6fbcc7eb46483c13748b6a27960bbed0f2ce4a2
+Industrial Kerosene,industrial_kerosene_cleaned.csv,185,185,0,1990-03-01,2026-11-02,0e04b82ff185378098fbb1ab2a633d0fc39752604f29e7e741ecc3ca23e1c2e2
+Furnace Oil 800,furnace_oil_800_cleaned.csv,185,184,1,1990-03-01,2026-11-02,e7cb3d84c9d032131f378e18f8e531ca1e7b149d342abb483bb01f2c0dd2880e
+Furnace Oil 1500 High,furnace_oil_1500_high_cleaned.csv,185,97,88,1990-03-01,2026-11-02,5259417de9253bda1f8436a5866f7648e52c9206d3b6259068ed04a91f8bff21
+Furnace Oil 1500 Low,furnace_oil_1500_low_cleaned.csv,185,185,0,1990-03-01,2026-11-02,b2f8ea889ba96b43b7ed0547999c591c9a0da2a62234a547bddf837f22131bf8

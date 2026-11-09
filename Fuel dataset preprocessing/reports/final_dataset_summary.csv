@@ -1,0 +1,10 @@
+fuel_type,records,observed_prices,first_date,last_date,missing_prices
+Auto Diesel,185,185,1990-03-01,2026-11-02,0
+Furnace Oil 1500 High,185,97,1990-03-01,2026-11-02,88
+Furnace Oil 1500 Low,185,185,1990-03-01,2026-11-02,0
+Furnace Oil 800,185,184,1990-03-01,2026-11-02,1
+Industrial Kerosene,185,185,1990-03-01,2026-11-02,0
+Kerosene,185,185,1990-03-01,2026-11-02,0
+Petrol 92,185,185,1990-03-01,2026-11-02,0
+Petrol 95,185,185,1990-03-01,2026-11-02,0
+Super Diesel,185,185,1990-03-01,2026-11-02,0

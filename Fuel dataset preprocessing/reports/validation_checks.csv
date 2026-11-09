@@ -1,0 +1,11 @@
+check,passed
+fuel_only,True
+unique_source_record_ids,True
+valid_dates,True
+positive_numeric_prices,True
+supplied_values_positive,True
+supplied_keys_unique,True
+all_supplied_rows_audited,True
+no_unreviewed_conflicts,True
+target_products_only,True
+original_cpc_records_preserved,True

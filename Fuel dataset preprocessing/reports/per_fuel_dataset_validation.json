@@ -1,0 +1,9 @@
+{
+  "files": 9,
+  "records": 1665,
+  "source_file": "fuel_prices_final_cleaned.csv",
+  "source_sha256": "02858a9545d8617d1293a44265b3ca9fd5fdb768a9e703ce313f2fc2d9a14eed",
+  "round_trip_values_preserved": true,
+  "combined_exactly_matches_final_dataset": true,
+  "unique_source_record_fuel_keys": true
+}

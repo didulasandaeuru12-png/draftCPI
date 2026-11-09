@@ -1,0 +1,300 @@
+date,indicator,value,unit,status,matching_source_record_ids,source_file,source
+1990-03-01,Auto diesel,9.6,Rs per litre,matched_existing,fcab05ca-30a7-4876-b61a-097287226132,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+1990-03-01,Super diesel,10.9,Rs per litre,matched_existing,fcab05ca-30a7-4876-b61a-097287226132,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+1990-03-01,Kerosene,6.58,Rs per litre,matched_existing,fcab05ca-30a7-4876-b61a-097287226132,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+1990-08-14,Auto diesel,11.0,Rs per litre,matched_existing,e263c9a5-44c8-468f-b2ee-34a04783662d,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+1990-08-14,Super diesel,12.5,Rs per litre,matched_existing,e263c9a5-44c8-468f-b2ee-34a04783662d,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+1990-08-14,Kerosene,8.0,Rs per litre,matched_existing,e263c9a5-44c8-468f-b2ee-34a04783662d,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+1990-11-05,Auto diesel,13.0,Rs per litre,matched_existing,df13baa2-6ae1-4f7f-97dc-29e577088fcd,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+1990-11-05,Super diesel,15.0,Rs per litre,matched_existing,df13baa2-6ae1-4f7f-97dc-29e577088fcd,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+1990-11-05,Kerosene,8.8,Rs per litre,matched_existing,df13baa2-6ae1-4f7f-97dc-29e577088fcd,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+1990-12-26,Auto diesel,11.0,Rs per litre,matched_existing,52b2fbd1-4dad-4d41-9de1-37e4888ae196,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+1990-12-26,Super diesel,13.0,Rs per litre,matched_existing,52b2fbd1-4dad-4d41-9de1-37e4888ae196,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+1992-05-13,Auto diesel,11.5,Rs per litre,matched_existing,89abe80a-13c0-4159-8c6f-6d4b23bb4d96,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+1992-05-13,Super diesel,13.5,Rs per litre,matched_existing,89abe80a-13c0-4159-8c6f-6d4b23bb4d96,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+1992-06-28,Super diesel,14.5,Rs per litre,matched_existing,1d2c4272-803e-4465-a21e-bd7603970d52,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+1992-07-14,Auto diesel,11.55,Rs per litre,matched_existing,d32bbaee-e0d9-46cc-b8a5-52ae5b7475ca,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+1992-10-03,Auto diesel,11.6,Rs per litre,matched_existing,79d21f5c-108a-40b7-a3bb-46283f9fba53,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+1992-12-21,Auto diesel,11.65,Rs per litre,matched_existing,4d20e53c-adb1-4714-867b-398e1ec787e0,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+1993-06-07,Auto diesel,11.7,Rs per litre,matched_existing,f1233406-d157-4538-9cc5-eed14f3dc96f,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+1993-06-11,Kerosene,11.8,Rs per litre,matched_existing,89e931a1-07fb-4220-8a84-04417768290e,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+1993-07-12,Auto diesel,11.8,Rs per litre,matched_existing,351d053f-0919-4422-a9e0-16f3fac95174,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+1993-07-12,Super diesel,14.6,Rs per litre,matched_existing,351d053f-0919-4422-a9e0-16f3fac95174,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+1993-08-30,Auto diesel,11.9,Rs per litre,matched_existing,34b7629d-7350-4f4c-a48e-7e3587141e11,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+1993-08-30,Super diesel,14.7,Rs per litre,matched_existing,34b7629d-7350-4f4c-a48e-7e3587141e11,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+1993-10-14,Auto diesel,12.0,Rs per litre,matched_existing,ed21f8d7-df43-4c67-b624-d3529d258e93,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+1993-10-14,Super diesel,14.8,Rs per litre,matched_existing,ed21f8d7-df43-4c67-b624-d3529d258e93,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+1993-12-17,Auto diesel,12.2,Rs per litre,matched_existing,634ec8bc-74a0-4dc3-8272-d1b7f9e243f9,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+1993-12-17,Super diesel,15.0,Rs per litre,matched_existing,634ec8bc-74a0-4dc3-8272-d1b7f9e243f9,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+1994-02-17,Auto diesel,12.3,Rs per litre,matched_existing,97c0218f-053c-42c0-9b12-c8e864dd0a74,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+1994-02-17,Super diesel,15.1,Rs per litre,matched_existing,97c0218f-053c-42c0-9b12-c8e864dd0a74,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+1994-03-28,Auto diesel,12.4,Rs per litre,matched_existing,44ba743e-3373-49d0-aa58-fa2ba253a7df,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+1994-03-28,Super diesel,12.2,Rs per litre,matched_existing,44ba743e-3373-49d0-aa58-fa2ba253a7df,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+1994-06-28,Auto diesel,11.4,Rs per litre,matched_existing,1491892c-578d-4cbe-b63a-9ffae41e79f4,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+1994-06-28,Super diesel,14.2,Rs per litre,matched_existing,1491892c-578d-4cbe-b63a-9ffae41e79f4,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+1994-06-28,Kerosene,9.5,Rs per litre,matched_existing,1491892c-578d-4cbe-b63a-9ffae41e79f4,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+1995-02-09,Auto diesel,12.4,Rs per litre,matched_existing,3e3e8ea4-85a6-4fbb-a736-b3324bd68e8d,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+1995-02-09,Super diesel,15.2,Rs per litre,matched_existing,3e3e8ea4-85a6-4fbb-a736-b3324bd68e8d,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+1996-09-28,Auto diesel,13.2,Rs per litre,matched_existing,31d2f359-7458-4e53-927c-daeb46e77e8e,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+1996-09-28,Super diesel,18.5,Rs per litre,matched_existing,31d2f359-7458-4e53-927c-daeb46e77e8e,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+1996-09-28,Kerosene,10.4,Rs per litre,matched_existing,31d2f359-7458-4e53-927c-daeb46e77e8e,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2000-02-07,Auto diesel,16.2,Rs per litre,matched_existing,cf719550-fe4c-4538-8511-42d69a59a0fb,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2000-02-07,Super diesel,21.5,Rs per litre,matched_existing,cf719550-fe4c-4538-8511-42d69a59a0fb,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2000-02-07,Kerosene,15.4,Rs per litre,matched_existing,cf719550-fe4c-4538-8511-42d69a59a0fb,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2000-06-12,Auto diesel,19.5,Rs per litre,matched_existing,9c259df1-5c19-47b6-819e-fe0a04437d03,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2000-06-12,Super diesel,24.8,Rs per litre,matched_existing,9c259df1-5c19-47b6-819e-fe0a04437d03,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2000-11-16,Auto diesel,21.5,Rs per litre,matched_existing,31baabe1-7107-4aa7-974e-5ad572b06378,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2000-11-16,Super diesel,26.8,Rs per litre,matched_existing,31baabe1-7107-4aa7-974e-5ad572b06378,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2000-11-16,Kerosene,17.4,Rs per litre,matched_existing,31baabe1-7107-4aa7-974e-5ad572b06378,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2000-12-27,Auto diesel,24.5,Rs per litre,matched_existing,7a401f2c-a549-4783-9592-892de9975e00,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2000-12-27,Super diesel,29.8,Rs per litre,matched_existing,7a401f2c-a549-4783-9592-892de9975e00,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2000-12-27,Kerosene,18.4,Rs per litre,matched_existing,7a401f2c-a549-4783-9592-892de9975e00,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2001-04-15,Auto diesel,27.5,Rs per litre,matched_existing,f3fa967b-1f65-40a2-8368-04b4b254da73,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2001-04-15,Super diesel,32.8,Rs per litre,matched_existing,f3fa967b-1f65-40a2-8368-04b4b254da73,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2001-04-15,Kerosene,19.4,Rs per litre,matched_existing,f3fa967b-1f65-40a2-8368-04b4b254da73,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2001-11-15,Kerosene,17.4,Rs per litre,matched_existing,3c97e8a9-1207-425b-8985-4a3060f8875f,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2001-12-28,Auto diesel,16.5,Rs per litre,matched_existing,635b418c-ef84-4452-9c1a-f75652536f9d,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2001-12-28,Super diesel,31.8,Rs per litre,matched_existing,635b418c-ef84-4452-9c1a-f75652536f9d,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2002-02-25,Auto diesel,26.0,Rs per litre,matched_existing,678898f6-7888-4475-b607-ef4dd7cf7313,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2002-02-25,Super diesel,31.3,Rs per litre,matched_existing,678898f6-7888-4475-b607-ef4dd7cf7313,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2002-04-22,Auto diesel,28.0,Rs per litre,matched_existing,3233b247-b68e-40c4-86d4-d66e3b0615d8,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2002-04-22,Super diesel,33.3,Rs per litre,matched_existing,3233b247-b68e-40c4-86d4-d66e3b0615d8,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2002-04-22,Kerosene,19.4,Rs per litre,matched_existing,3233b247-b68e-40c4-86d4-d66e3b0615d8,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2002-05-21,Auto diesel,30.0,Rs per litre,matched_existing,3a8b5938-6868-4082-a4ba-559fb8f068c9,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2002-05-21,Super diesel,35.3,Rs per litre,matched_existing,3a8b5938-6868-4082-a4ba-559fb8f068c9,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2002-05-21,Kerosene,20.9,Rs per litre,matched_existing,3a8b5938-6868-4082-a4ba-559fb8f068c9,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2002-06-21,Auto diesel,30.5,Rs per litre,matched_existing,f8c9b20b-da10-4950-af22-fa836599b214,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2002-07-15,Auto diesel,27.5,Rs per litre,matched_existing,a2a562d8-06a3-435d-923e-7d72d5e8b663,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2002-07-15,Super diesel,32.8,Rs per litre,matched_existing,a2a562d8-06a3-435d-923e-7d72d5e8b663,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2002-07-15,Kerosene,20.5,Rs per litre,matched_existing,a2a562d8-06a3-435d-923e-7d72d5e8b663,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2002-07-29,Kerosene,20.4,Rs per litre,matched_existing,f5343079-93cb-4016-9232-a8ce0ad52ba9,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2002-08-15,Auto diesel,28.0,Rs per litre,matched_existing,69509d3b-fc66-45d8-8ebe-50b33b3f28cc,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2002-08-15,Super diesel,33.3,Rs per litre,matched_existing,69509d3b-fc66-45d8-8ebe-50b33b3f28cc,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2002-08-15,Kerosene,21.0,Rs per litre,matched_existing,69509d3b-fc66-45d8-8ebe-50b33b3f28cc,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2002-09-16,Auto diesel,28.5,Rs per litre,matched_existing,60b32f7f-5a13-4294-bf3d-22a821aaaeb1,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2002-09-16,Super diesel,33.8,Rs per litre,matched_existing,60b32f7f-5a13-4294-bf3d-22a821aaaeb1,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2002-09-16,Kerosene,22.0,Rs per litre,matched_existing,60b32f7f-5a13-4294-bf3d-22a821aaaeb1,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2002-10-15,Auto diesel,30.0,Rs per litre,matched_existing,943b505d-736f-4a39-bc87-0f459a9db595,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2002-10-15,Super diesel,35.3,Rs per litre,matched_existing,943b505d-736f-4a39-bc87-0f459a9db595,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2002-10-15,Kerosene,24.0,Rs per litre,matched_existing,943b505d-736f-4a39-bc87-0f459a9db595,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2003-09-04,Auto diesel,31.5,Rs per litre,matched_existing,c4cf3a9e-d25f-4a4a-bca3-7b5867f638f0,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2003-09-04,Super diesel,36.8,Rs per litre,matched_existing,c4cf3a9e-d25f-4a4a-bca3-7b5867f638f0,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2003-09-04,Kerosene,25.0,Rs per litre,matched_existing,c4cf3a9e-d25f-4a4a-bca3-7b5867f638f0,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2003-10-05,Auto diesel,30.5,Rs per litre,matched_existing,9795d8fe-544a-4b9a-a5bc-0f6482804531,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2003-10-05,Super diesel,35.8,Rs per litre,matched_existing,9795d8fe-544a-4b9a-a5bc-0f6482804531,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2003-10-05,Kerosene,23.0,Rs per litre,matched_existing,9795d8fe-544a-4b9a-a5bc-0f6482804531,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2003-11-11,Auto diesel,31.0,Rs per litre,matched_existing,9da6780f-e70d-465b-9684-3d16962bfffa,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2003-11-11,Super diesel,36.3,Rs per litre,matched_existing,9da6780f-e70d-465b-9684-3d16962bfffa,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2003-11-11,Kerosene,23.5,Rs per litre,matched_existing,9da6780f-e70d-465b-9684-3d16962bfffa,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2003-12-04,Auto diesel,32.0,Rs per litre,matched_existing,d00a0a88-6d82-44bc-9fdf-9f5b45eb23fb,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2003-12-04,Super diesel,37.3,Rs per litre,matched_existing,d00a0a88-6d82-44bc-9fdf-9f5b45eb23fb,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2003-12-04,Kerosene,25.5,Rs per litre,matched_existing,d00a0a88-6d82-44bc-9fdf-9f5b45eb23fb,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2004-01-25,Super diesel,37.5,Rs per litre,matched_existing,a6165bd0-70b1-4a0c-92b6-510aac51dbc1,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2004-08-13,Auto diesel,36.0,Rs per litre,matched_existing,66de5a80-1564-4eb2-9538-2ced8eeac6a2,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2004-08-13,Super diesel,41.3,Rs per litre,matched_existing,66de5a80-1564-4eb2-9538-2ced8eeac6a2,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2004-09-25,Auto diesel,44.0,Rs per litre,matched_existing,5bd50414-6da1-40c0-bae5-240ba6670359,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2004-09-25,Super diesel,49.3,Rs per litre,matched_existing,5bd50414-6da1-40c0-bae5-240ba6670359,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2005-05-05,Auto diesel,46.0,Rs per litre,matched_existing,6cd0e4bc-c48f-4e4d-ba8a-0c8a28c19a6e,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2005-05-05,Super diesel,51.3,Rs per litre,matched_existing,6cd0e4bc-c48f-4e4d-ba8a-0c8a28c19a6e,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2005-05-05,Kerosene,28.5,Rs per litre,matched_existing,6cd0e4bc-c48f-4e4d-ba8a-0c8a28c19a6e,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2005-06-06,Auto diesel,50.0,Rs per litre,matched_existing,1cd9d781-4b8c-47f6-abf8-effcd499cb2c,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2005-06-06,Super diesel,55.3,Rs per litre,matched_existing,1cd9d781-4b8c-47f6-abf8-effcd499cb2c,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2005-06-06,Kerosene,30.5,Rs per litre,matched_existing,1cd9d781-4b8c-47f6-abf8-effcd499cb2c,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2006-04-16,Auto diesel,58.0,Rs per litre,matched_existing,8bbfb0f3-7d41-4b02-93ae-55e58cc197fa|52f177f2-802c-48d1-8e69-6bafeeae4fe2,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2006-04-16,Super diesel,63.3,Rs per litre,matched_existing,8bbfb0f3-7d41-4b02-93ae-55e58cc197fa|52f177f2-802c-48d1-8e69-6bafeeae4fe2,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2006-04-16,Kerosene,38.5,Rs per litre,matched_existing,8bbfb0f3-7d41-4b02-93ae-55e58cc197fa|52f177f2-802c-48d1-8e69-6bafeeae4fe2,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2006-06-11,Auto diesel,61.0,Rs per litre,matched_existing,e533e31f-3282-4479-9e28-b548240bfed3,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2006-06-11,Super diesel,68.3,Rs per litre,matched_existing,e533e31f-3282-4479-9e28-b548240bfed3,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2006-06-11,Kerosene,43.5,Rs per litre,matched_existing,e533e31f-3282-4479-9e28-b548240bfed3,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2006-08-02,Auto diesel,64.0,Rs per litre,matched_existing,8b7f4f2e-912a-4d75-a119-010439c16e56,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2006-08-02,Super diesel,69.3,Rs per litre,matched_existing,8b7f4f2e-912a-4d75-a119-010439c16e56,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2006-08-02,Kerosene,45.5,Rs per litre,matched_existing,8b7f4f2e-912a-4d75-a119-010439c16e56,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2006-10-26,Auto diesel,60.0,Rs per litre,matched_existing,442f426e-f858-4e63-a1a0-3eb89c253b1a,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2006-10-26,Super diesel,65.3,Rs per litre,matched_existing,442f426e-f858-4e63-a1a0-3eb89c253b1a,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2006-10-26,Kerosene,48.0,Rs per litre,matched_existing,442f426e-f858-4e63-a1a0-3eb89c253b1a,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2007-04-19,Auto diesel,63.0,Rs per litre,matched_existing,058c478b-a742-4f49-b9a0-91a28c908cf6,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2007-04-19,Super diesel,68.3,Rs per litre,matched_existing,058c478b-a742-4f49-b9a0-91a28c908cf6,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2007-04-28,Auto diesel,65.0,Rs per litre,matched_existing,379baeaf-263b-4915-8148-301c1b6c1dfe,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2007-04-28,Super diesel,70.3,Rs per litre,matched_existing,379baeaf-263b-4915-8148-301c1b6c1dfe,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2007-04-28,Kerosene,50.0,Rs per litre,matched_existing,379baeaf-263b-4915-8148-301c1b6c1dfe,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2007-05-12,Auto diesel,67.0,Rs per litre,matched_existing,865cbabe-261e-46ea-85ed-27e45ed8b0d0,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2007-05-12,Super diesel,72.3,Rs per litre,matched_existing,865cbabe-261e-46ea-85ed-27e45ed8b0d0,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2007-05-12,Kerosene,51.0,Rs per litre,matched_existing,865cbabe-261e-46ea-85ed-27e45ed8b0d0,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2007-06-30,Auto diesel,71.0,Rs per litre,matched_existing,c8802375-7ea4-4302-8718-0c87aeb6fd82,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2007-06-30,Super diesel,76.3,Rs per litre,matched_existing,c8802375-7ea4-4302-8718-0c87aeb6fd82,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2007-06-30,Kerosene,67.0,Rs per litre,matched_existing,c8802375-7ea4-4302-8718-0c87aeb6fd82,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2007-07-29,Auto diesel,75.0,Rs per litre,matched_existing,17611117-7bb1-4c0b-b556-586b81e85fbc,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2007-07-29,Super diesel,80.3,Rs per litre,matched_existing,17611117-7bb1-4c0b-b556-586b81e85fbc,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2007-07-29,Kerosene,68.0,Rs per litre,matched_existing,17611117-7bb1-4c0b-b556-586b81e85fbc,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2008-01-14,Auto diesel,80.0,Rs per litre,matched_existing,2c384609-a448-4396-aadc-1d851203b86c,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2008-01-14,Super diesel,85.3,Rs per litre,matched_existing,2c384609-a448-4396-aadc-1d851203b86c,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2008-01-14,Kerosene,70.0,Rs per litre,matched_existing,2c384609-a448-4396-aadc-1d851203b86c,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2008-05-25,Auto diesel,110.0,Rs per litre,matched_existing,447fb769-eca5-44c9-84bf-88e22b3b9bae,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2008-05-25,Super diesel,125.3,Rs per litre,matched_existing,447fb769-eca5-44c9-84bf-88e22b3b9bae,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2008-05-25,Kerosene,80.0,Rs per litre,matched_existing,447fb769-eca5-44c9-84bf-88e22b3b9bae,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2008-11-07,Auto diesel,80.0,Rs per litre,matched_existing,6eaf133c-6e4d-44d1-a7e0-df82bb9a4845,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2008-11-07,Super diesel,95.3,Rs per litre,matched_existing,6eaf133c-6e4d-44d1-a7e0-df82bb9a4845,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2008-11-07,Kerosene,60.0,Rs per litre,matched_existing,6eaf133c-6e4d-44d1-a7e0-df82bb9a4845,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2008-12-30,Auto diesel,70.0,Rs per litre,matched_existing,66f17b0f-91de-422f-84e4-43ce8121af5e,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2008-12-30,Super diesel,85.3,Rs per litre,matched_existing,66f17b0f-91de-422f-84e4-43ce8121af5e,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2008-12-30,Kerosene,50.0,Rs per litre,matched_existing,66f17b0f-91de-422f-84e4-43ce8121af5e,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2009-07-02,Auto diesel,73.0,Rs per litre,matched_existing,86242304-3c44-460c-9fa7-f4aab5e92d54,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2009-07-02,Super diesel,88.3,Rs per litre,matched_existing,86242304-3c44-460c-9fa7-f4aab5e92d54,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2009-07-02,Kerosene,51.0,Rs per litre,matched_existing,86242304-3c44-460c-9fa7-f4aab5e92d54,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2011-04-01,Auto diesel,76.0,Rs per litre,matched_existing,b7bd3474-bac4-49d5-9633-e04e24b10bfa,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2011-04-01,Super diesel,98.3,Rs per litre,matched_existing,b7bd3474-bac4-49d5-9633-e04e24b10bfa,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2011-04-01,Kerosene,61.0,Rs per litre,matched_existing,b7bd3474-bac4-49d5-9633-e04e24b10bfa,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2011-10-30,Auto diesel,84.0,Rs per litre,matched_existing,3eb24c9f-bd93-4e47-b48d-ca58308ed05a,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2011-10-30,Super diesel,106.3,Rs per litre,matched_existing,3eb24c9f-bd93-4e47-b48d-ca58308ed05a,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2011-10-30,Kerosene,71.0,Rs per litre,matched_existing,3eb24c9f-bd93-4e47-b48d-ca58308ed05a,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2012-02-12,Auto diesel,115.0,Rs per litre,matched_existing,fbbd6708-7230-46e7-82b7-a90be4af6be5,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2012-02-12,Super diesel,142.0,Rs per litre,matched_existing,fbbd6708-7230-46e7-82b7-a90be4af6be5,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2012-02-12,Kerosene,106.0,Rs per litre,matched_existing,fbbd6708-7230-46e7-82b7-a90be4af6be5,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2013-02-23,Auto diesel,121.0,Rs per litre,matched_existing,782b1182-a8ac-4a92-9e1a-5b062654be24,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2013-02-23,Super diesel,145.0,Rs per litre,matched_existing,782b1182-a8ac-4a92-9e1a-5b062654be24,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2014-09-17,Auto diesel,118.0,Rs per litre,matched_existing,b7b5a347-bcf5-4f39-a888-6cd920ae24da,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2014-09-17,Super diesel,140.0,Rs per litre,matched_existing,b7b5a347-bcf5-4f39-a888-6cd920ae24da,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2014-09-17,Kerosene,86.0,Rs per litre,matched_existing,b7b5a347-bcf5-4f39-a888-6cd920ae24da,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2014-12-05,Auto diesel,111.0,Rs per litre,matched_existing,3a49338e-6e8e-4f63-b468-5431ca37c6c5,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2014-12-05,Super diesel,133.0,Rs per litre,matched_existing,3a49338e-6e8e-4f63-b468-5431ca37c6c5,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2014-12-05,Kerosene,81.0,Rs per litre,matched_existing,3a49338e-6e8e-4f63-b468-5431ca37c6c5,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2015-01-22,Auto diesel,95.0,Rs per litre,matched_existing,adb785ef-3add-4cbd-bb00-54f8f1fdc453,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2015-01-22,Super diesel,110.0,Rs per litre,matched_existing,adb785ef-3add-4cbd-bb00-54f8f1fdc453,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2015-01-22,Kerosene,65.0,Rs per litre,matched_existing,adb785ef-3add-4cbd-bb00-54f8f1fdc453,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2015-01-29,Kerosene,59.0,Rs per litre,matched_existing,c8772a3a-6d72-469d-8d42-89cbd5d8c0be,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2015-11-28,Kerosene,49.0,Rs per litre,matched_existing,d2d26b72-36db-4733-a2ca-b858decfd180,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2017-01-11,Kerosene,44.0,Rs per litre,matched_existing,48f4e949-e0fd-4a78-b788-669444945ab0,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2018-05-11,Auto diesel,109.0,Rs per litre,matched_existing,6ff6013a-798b-48b1-96ab-d9a2c2782f0d,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2018-05-11,Super diesel,119.0,Rs per litre,matched_existing,6ff6013a-798b-48b1-96ab-d9a2c2782f0d,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2018-05-11,Kerosene,101.0,Rs per litre,matched_existing,6ff6013a-798b-48b1-96ab-d9a2c2782f0d,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2018-06-13,Kerosene,70.0,Rs per litre,matched_existing,20629ed2-0c0f-4229-a175-1169aa5597a2,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2018-07-11,Auto diesel,118.0,Rs per litre,matched_existing,d8f54169-9bb1-4a58-8648-60b316bc5110,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2018-07-11,Super diesel,129.0,Rs per litre,matched_existing,d8f54169-9bb1-4a58-8648-60b316bc5110,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2018-08-11,Super diesel,130.0,Rs per litre,matched_existing,7f2d3ea3-bbf2-4802-a399-9076ac2424d0,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2018-09-11,Auto diesel,123.0,Rs per litre,matched_existing,57b13639-3ae9-435e-9138-e0232dfed164,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2018-09-11,Super diesel,133.0,Rs per litre,matched_existing,57b13639-3ae9-435e-9138-e0232dfed164,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2018-10-11,Super diesel,141.0,Rs per litre,matched_existing,3f50cd12-3de9-4d15-bb1c-3cda1c505aa0,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2018-11-02,Auto diesel,116.0,Rs per litre,matched_existing,25db3f42-aa20-4e5f-8be9-6698b2ebedc0,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2018-11-16,Auto diesel,111.0,Rs per litre,matched_existing,561939d0-19f1-4dc6-a12a-e166b0d33c5e,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2018-11-16,Super diesel,136.0,Rs per litre,matched_existing,561939d0-19f1-4dc6-a12a-e166b0d33c5e,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2018-12-01,Auto diesel,106.0,Rs per litre,matched_existing,8ea292bf-47ae-44af-a034-13ed799387cb,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2018-12-01,Super diesel,131.0,Rs per litre,matched_existing,8ea292bf-47ae-44af-a034-13ed799387cb,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2018-12-22,Auto diesel,101.0,Rs per litre,matched_existing,207823fa-9575-49d9-87c3-6021d9eec572,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2018-12-22,Super diesel,121.0,Rs per litre,matched_existing,207823fa-9575-49d9-87c3-6021d9eec572,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2019-01-11,Auto diesel,99.0,Rs per litre,matched_existing,87d802fa-097e-42e2-92c4-cde0937a67a3,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2019-01-11,Super diesel,118.0,Rs per litre,matched_existing,87d802fa-097e-42e2-92c4-cde0937a67a3,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2019-02-12,Auto diesel,103.0,Rs per litre,matched_existing,2083f7c5-2cfb-46b4-9014-a0980d2b2bbd,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2019-02-12,Super diesel,129.0,Rs per litre,matched_existing,2083f7c5-2cfb-46b4-9014-a0980d2b2bbd,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2019-03-13,Auto diesel,104.0,Rs per litre,matched_existing,ac33bee2-5990-469d-a4cb-c7ced3dd39da,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2019-03-13,Super diesel,134.0,Rs per litre,matched_existing,ac33bee2-5990-469d-a4cb-c7ced3dd39da,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2019-05-11,Super diesel,136.0,Rs per litre,matched_existing,bf53977a-eda6-4855-abd5-7e4065ca534a,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2019-07-11,Super diesel,131.0,Rs per litre,matched_existing,9134fa58-2924-4ac1-b00c-dc8eb92cdd2c,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2019-08-13,Super diesel,134.0,Rs per litre,matched_existing,371207d5-6499-4c3f-b72b-5c57d866eb70,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2019-09-10,Super diesel,132.0,Rs per litre,matched_existing,d03d8200-109d-4794-8384-76bf01dac2f0,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2021-06-11,Auto diesel,111.0,Rs per litre,matched_existing,d862eefc-8adf-4b24-af69-4b6b07422276,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2021-06-11,Super diesel,144.0,Rs per litre,matched_existing,d862eefc-8adf-4b24-af69-4b6b07422276,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2021-06-11,Kerosene,77.0,Rs per litre,matched_existing,d862eefc-8adf-4b24-af69-4b6b07422276,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2021-12-20,Auto diesel,121.0,Rs per litre,matched_existing,16ef66b2-f13c-48b0-a263-8ce41c0500e9,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2021-12-20,Super diesel,159.0,Rs per litre,matched_existing,16ef66b2-f13c-48b0-a263-8ce41c0500e9,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2021-12-20,Kerosene,87.0,Rs per litre,matched_existing,16ef66b2-f13c-48b0-a263-8ce41c0500e9,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2022-03-11,Auto diesel,176.0,Rs per litre,matched_existing,a4b3dfa3-495a-4c81-8cb8-2d3dc23f54f4,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2022-03-11,Super diesel,254.0,Rs per litre,matched_existing,a4b3dfa3-495a-4c81-8cb8-2d3dc23f54f4,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2022-04-18,Auto diesel,289.0,Rs per litre,matched_existing,8dbf5a7a-0447-4cc1-b154-a3ea1bed255c,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2022-04-18,Super diesel,329.0,Rs per litre,matched_existing,8dbf5a7a-0447-4cc1-b154-a3ea1bed255c,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2022-05-24,Auto diesel,400.0,Rs per litre,matched_existing,fa00c0e3-888d-41a3-a544-536b7a638e94,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2022-05-24,Super diesel,445.0,Rs per litre,matched_existing,fa00c0e3-888d-41a3-a544-536b7a638e94,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2022-06-26,Auto diesel,460.0,Rs per litre,matched_existing,a4b14f86-2554-4e10-82d4-12316d75c361,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2022-06-26,Super diesel,520.0,Rs per litre,matched_existing,a4b14f86-2554-4e10-82d4-12316d75c361,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2022-07-17,Auto diesel,440.0,Rs per litre,matched_existing,f0a87e26-6111-48ac-9207-3811aa4814ba,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2022-07-17,Super diesel,510.0,Rs per litre,matched_existing,f0a87e26-6111-48ac-9207-3811aa4814ba,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2022-08-01,Auto diesel,430.0,Rs per litre,matched_existing,0355fbb7-3e84-4619-b37e-04859040a2be,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2022-08-21,Kerosene,340.0,Rs per litre,matched_existing,60dc4974-be75-44ca-a768-d62bdb908151,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2022-10-17,Auto diesel,415.0,Rs per litre,matched_existing,86673083-f86a-4cc3-8626-61a421cbd3f2|ecaf6aa0-d747-437e-872a-9735e1e33099,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2022-11-12,Auto diesel,430.0,Rs per litre,matched_existing,663251f2-b084-490b-a52a-d9ef503db2fe,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2022-11-12,Kerosene,365.0,Rs per litre,matched_existing,663251f2-b084-490b-a52a-d9ef503db2fe,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2022-12-06,Auto diesel,420.0,Rs per litre,matched_existing,939f2d35-887f-47ff-9e21-8d2fa30503f7,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2023-01-03,Auto diesel,405.0,Rs per litre,matched_existing,c8bf60ea-44ed-46c7-8612-f7f7d0f2da37,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2023-01-03,Kerosene,355.0,Rs per litre,matched_existing,c8bf60ea-44ed-46c7-8612-f7f7d0f2da37,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2023-03-02,Kerosene,305.0,Rs per litre,matched_existing,f03536d3-9bfc-437b-8500-5d039c39b1a5,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2023-03-30,Auto diesel,325.0,Rs per litre,matched_existing,d88254dc-750b-4cc4-ba6f-3b9b7ab6effa,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2023-03-30,Super diesel,465.0,Rs per litre,matched_existing,d88254dc-750b-4cc4-ba6f-3b9b7ab6effa,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2023-03-30,Kerosene,295.0,Rs per litre,matched_existing,d88254dc-750b-4cc4-ba6f-3b9b7ab6effa,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2023-05-01,Auto diesel,310.0,Rs per litre,matched_existing,9ebafc23-87c5-4291-962a-ba1ba35d0d8d,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2023-05-01,Super diesel,330.0,Rs per litre,matched_existing,9ebafc23-87c5-4291-962a-ba1ba35d0d8d,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2023-06-01,Super diesel,340.0,Rs per litre,matched_existing,e52bd26a-b091-4d61-9cc6-43dd2d85a506,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2023-06-01,Kerosene,245.0,Rs per litre,matched_existing,e52bd26a-b091-4d61-9cc6-43dd2d85a506,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2023-07-01,Auto diesel,308.0,Rs per litre,matched_existing,5c7d25b7-79ba-4f51-811c-a68666a19e03,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2023-07-01,Super diesel,346.0,Rs per litre,matched_existing,5c7d25b7-79ba-4f51-811c-a68666a19e03,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2023-07-01,Kerosene,236.0,Rs per litre,matched_existing,5c7d25b7-79ba-4f51-811c-a68666a19e03,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2023-08-01,Auto diesel,306.0,Rs per litre,matched_existing,cf344f24-c8b3-4a5e-b500-24003e957d2d,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2023-08-01,Super diesel,358.0,Rs per litre,matched_existing,cf344f24-c8b3-4a5e-b500-24003e957d2d,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2023-08-01,Kerosene,226.0,Rs per litre,matched_existing,cf344f24-c8b3-4a5e-b500-24003e957d2d,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2023-09-01,Auto diesel,341.0,Rs per litre,matched_existing,38b03f33-6153-4708-9532-74292681bb40,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2023-09-01,Super diesel,359.0,Rs per litre,matched_existing,38b03f33-6153-4708-9532-74292681bb40,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2023-09-01,Kerosene,231.0,Rs per litre,matched_existing,38b03f33-6153-4708-9532-74292681bb40,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2023-10-02,Auto diesel,351.0,Rs per litre,matched_existing,e556bfe1-6404-4ac6-bb94-22701481e88a,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2023-10-02,Super diesel,421.0,Rs per litre,matched_existing,e556bfe1-6404-4ac6-bb94-22701481e88a,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2023-10-02,Kerosene,242.0,Rs per litre,matched_existing,e556bfe1-6404-4ac6-bb94-22701481e88a,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2023-11-01,Auto diesel,356.0,Rs per litre,matched_existing,16f4154f-a454-4b42-b475-8afb3e567f5b,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2023-11-01,Super diesel,431.0,Rs per litre,matched_existing,16f4154f-a454-4b42-b475-8afb3e567f5b,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2023-11-01,Kerosene,249.0,Rs per litre,matched_existing,16f4154f-a454-4b42-b475-8afb3e567f5b,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2023-12-01,Auto diesel,329.0,Rs per litre,matched_existing,76ff6a45-551a-4d57-9d2f-6e4315f94a62,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2023-12-01,Super diesel,434.0,Rs per litre,matched_existing,76ff6a45-551a-4d57-9d2f-6e4315f94a62,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2023-12-01,Kerosene,247.0,Rs per litre,matched_existing,76ff6a45-551a-4d57-9d2f-6e4315f94a62,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2024-01-01,Auto diesel,358.0,Rs per litre,matched_existing,de3900ed-e331-4a80-bbca-8581df108568,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2024-01-01,Super diesel,475.0,Rs per litre,matched_existing,de3900ed-e331-4a80-bbca-8581df108568,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2024-01-01,Kerosene,236.0,Rs per litre,matched_existing,de3900ed-e331-4a80-bbca-8581df108568,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2024-02-01,Auto diesel,363.0,Rs per litre,matched_existing,efac27da-0cb0-4d92-a1f4-7b8c5d7b80f3,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2024-02-01,Super diesel,468.0,Rs per litre,matched_existing,efac27da-0cb0-4d92-a1f4-7b8c5d7b80f3,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2024-02-01,Kerosene,262.0,Rs per litre,matched_existing,efac27da-0cb0-4d92-a1f4-7b8c5d7b80f3,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2024-03-05,Super diesel,458.0,Rs per litre,matched_existing,4f8dd646-1607-4eb7-8f17-5d0c8d03661b,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2024-03-05,Kerosene,257.0,Rs per litre,matched_existing,4f8dd646-1607-4eb7-8f17-5d0c8d03661b,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2024-04-01,Super diesel,386.0,Rs per litre,matched_existing,62a172f3-17be-4a67-9812-bcfb52ddb8f8,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2024-04-01,Kerosene,245.0,Rs per litre,matched_existing,62a172f3-17be-4a67-9812-bcfb52ddb8f8,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2024-05-01,Auto diesel,333.0,Rs per litre,matched_existing,0912f634-2835-42f9-a614-92d61508837a,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2024-05-01,Super diesel,377.0,Rs per litre,matched_existing,0912f634-2835-42f9-a614-92d61508837a,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2024-05-01,Kerosene,215.0,Rs per litre,matched_existing,0912f634-2835-42f9-a614-92d61508837a,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2024-06-01,Auto diesel,317.0,Rs per litre,matched_existing,b422b766-a72c-4712-8683-7ab3ba5fff66,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2024-06-01,Kerosene,202.0,Rs per litre,matched_existing,b422b766-a72c-4712-8683-7ab3ba5fff66,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2024-07-01,Super diesel,355.0,Rs per litre,matched_existing,3a988988-6d4b-40dd-a868-d4eea59e4f12,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2024-09-01,Auto diesel,307.0,Rs per litre,matched_existing,17575670-b5ca-4ffc-a8e1-6d7c993b1b40,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2024-09-01,Super diesel,352.0,Rs per litre,matched_existing,17575670-b5ca-4ffc-a8e1-6d7c993b1b40,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2024-10-01,Auto diesel,283.0,Rs per litre,matched_existing,cbe189ae-47e5-40a0-9f85-e9e289234234,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2024-10-01,Super diesel,319.0,Rs per litre,matched_existing,cbe189ae-47e5-40a0-9f85-e9e289234234,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2024-10-01,Kerosene,183.0,Rs per litre,matched_existing,cbe189ae-47e5-40a0-9f85-e9e289234234,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2024-11-01,Super diesel,313.0,Rs per litre,matched_existing,cd2ab996-a88a-4948-9af2-41c87a7cb5e9,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2024-12-01,Auto diesel,286.0,Rs per litre,matched_existing,341ce653-2476-4084-afdc-d38254118b5b,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2024-12-01,Kerosene,188.0,Rs per litre,matched_existing,341ce653-2476-4084-afdc-d38254118b5b,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2025-01-01,Kerosene,183.0,Rs per litre,matched_existing,edae2674-dd1c-4b07-85c7-712ab4dbd994,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2025-02-01,Super diesel,331.0,Rs per litre,matched_existing,da4d9c95-4664-4fc6-b9bf-c1bfa30f9bc4,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2025-04-30,Auto diesel,274.0,Rs per litre,matched_existing,bc1fd187-0bcf-4516-a5c7-d7569311c6eb,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2025-04-30,Super diesel,325.0,Rs per litre,matched_existing,bc1fd187-0bcf-4516-a5c7-d7569311c6eb,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2025-04-30,Kerosene,178.0,Rs per litre,matched_existing,bc1fd187-0bcf-4516-a5c7-d7569311c6eb,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2025-07-01,Auto diesel,289.0,Rs per litre,matched_existing,b1b82266-22a6-45b6-95e0-26ea3dd01eb1,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2025-07-01,Kerosene,185.0,Rs per litre,matched_existing,b1b82266-22a6-45b6-95e0-26ea3dd01eb1,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2025-09-01,Auto diesel,283.0,Rs per litre,matched_existing,232a5112-430f-4bf0-ab52-1fe6448b3d5a,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2025-09-01,Super diesel,313.0,Rs per litre,matched_existing,232a5112-430f-4bf0-ab52-1fe6448b3d5a,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2025-10-01,Auto diesel,277.0,Rs per litre,matched_existing,747b7102-e3b4-4ee2-8823-226ae6c1ac55,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2025-10-01,Kerosene,180.0,Rs per litre,matched_existing,747b7102-e3b4-4ee2-8823-226ae6c1ac55,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2025-11-01,Super diesel,318.0,Rs per litre,matched_existing,c31d4b53-01b8-45cf-b3c0-473543dec4c8,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2026-01-06,Auto diesel,279.0,Rs per litre,matched_existing,2d39da59-9eb0-4d96-9e28-748b30962339,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2026-01-06,Super diesel,323.0,Rs per litre,matched_existing,2d39da59-9eb0-4d96-9e28-748b30962339,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2026-01-06,Kerosene,182.0,Rs per litre,matched_existing,2d39da59-9eb0-4d96-9e28-748b30962339,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2026-02-01,Auto diesel,277.0,Rs per litre,matched_existing,29115331-f67f-47a5-8dbe-43b42a90d0eb,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2026-03-01,Auto diesel,281.0,Rs per litre,matched_existing,ba4f4a34-0e03-41a2-991f-a17d1d8bb9b1,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2026-03-01,Super diesel,329.0,Rs per litre,matched_existing,ba4f4a34-0e03-41a2-991f-a17d1d8bb9b1,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2026-03-10,Auto diesel,303.0,Rs per litre,matched_existing,19e2096b-1ea0-4ecb-b333-c94d576ccf15,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2026-03-10,Super diesel,353.0,Rs per litre,matched_existing,19e2096b-1ea0-4ecb-b333-c94d576ccf15,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2026-03-10,Kerosene,195.0,Rs per litre,matched_existing,19e2096b-1ea0-4ecb-b333-c94d576ccf15,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2026-03-22,Auto diesel,382.0,Rs per litre,matched_existing,bb56a641-4f6c-4f72-bd41-bcc8d05dcdc9,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2026-03-22,Super diesel,443.0,Rs per litre,matched_existing,bb56a641-4f6c-4f72-bd41-bcc8d05dcdc9,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2026-03-22,Kerosene,255.0,Rs per litre,matched_existing,bb56a641-4f6c-4f72-bd41-bcc8d05dcdc9,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2026-05-03,Auto diesel,392.0,Rs per litre,matched_existing,b2fa90cc-d3e0-48f9-ae82-1491e0a28c5e,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2026-05-03,Super diesel,458.0,Rs per litre,matched_existing,b2fa90cc-d3e0-48f9-ae82-1491e0a28c5e,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2026-05-03,Kerosene,265.0,Rs per litre,matched_existing,b2fa90cc-d3e0-48f9-ae82-1491e0a28c5e,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2026-05-31,Auto diesel,407.0,Rs per litre,matched_existing,503937fd-0765-46da-8d59-a8921d7595ff,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2026-05-31,Super diesel,478.0,Rs per litre,matched_existing,503937fd-0765-46da-8d59-a8921d7595ff,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2026-05-31,Kerosene,285.0,Rs per litre,matched_existing,503937fd-0765-46da-8d59-a8921d7595ff,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2026-06-30,Auto diesel,382.0,Rs per litre,matched_existing,d6ca0963-7964-4150-86db-356e0b6ef117,fuel-prices-2026-10-15.csv,cpc-historical-prices-api
+2026-10-01,Auto diesel,392.0,Rs per litre,matched_existing,02cc5d65-7c16-4b5f-a24e-444de84e9ab6,fuel-prices-2026-10-15.csv,cpc-historical-prices
+2026-10-01,Super diesel,528.0,Rs per litre,matched_existing,02cc5d65-7c16-4b5f-a24e-444de84e9ab6,fuel-prices-2026-10-15.csv,cpc-historical-prices
