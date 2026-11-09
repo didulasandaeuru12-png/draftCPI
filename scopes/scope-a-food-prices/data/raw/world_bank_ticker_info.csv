@@ -1,0 +1,6 @@
+iso3,country,ticker,full_name,units,food_index_weight,data_coverage,r2_imputation
+LKA,Sri Lanka,exchange_rate_unofficial,Unofficial exchange rate (Parallel-market Estimate)(FAO GIEWS completed with Int. Forex),USD/LCU,0,100%,n/a
+LKA,Sri Lanka,food_price_index,Food Price Index,"LCU, Indexed, January 2018 = 1",Laspeyres,22.31%,0.95
+LKA,Sri Lanka,rice_fao,Rice (white),Kg,1,2.21%,0.94
+LKA,Sri Lanka,rice_various,Rice Various,KG,1,50.33%,0.98
+LKA,Sri Lanka,wheat_flour,Wheat flour,KG,1,12.9%,0.89

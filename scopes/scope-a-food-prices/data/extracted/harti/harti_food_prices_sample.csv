@@ -1,0 +1,49 @@
+﻿source_file,pdf_page,table_number,week_number,reporting_period,market,price_type,commodity,variety,currency,unit,price_min,price_max,price_average,previous_week_average,previous_year_average,change_vs_previous_week,change_vs_previous_year_pct,change_vs_previous_week_unit
+HARTI_weekly_2025_sample.pdf,25,14,46,14 - 20 Nov 2025,Colombo,wholesale,Rice,Samba 1,LKR,kg,238.0,245.0,240.38,241.88,227.0,-0.62,5.89,%
+HARTI_weekly_2025_sample.pdf,25,14,46,14 - 20 Nov 2025,Colombo,wholesale,Rice,Samba 2,LKR,kg,232.0,238.0,235.0,236.5,219.33,-0.63,7.14,%
+HARTI_weekly_2025_sample.pdf,25,14,46,14 - 20 Nov 2025,Colombo,wholesale,Rice,Keeri Samba,LKR,kg,300.0,330.0,316.0,316.0,250.0,0.0,26.4,%
+HARTI_weekly_2025_sample.pdf,25,14,46,14 - 20 Nov 2025,Colombo,wholesale,Rice,Nadu 1,LKR,kg,215.0,228.0,219.5,218.88,227.5,0.29,-3.52,%
+HARTI_weekly_2025_sample.pdf,25,14,46,14 - 20 Nov 2025,Colombo,wholesale,Rice,Nadu 2,LKR,kg,210.0,213.0,211.0,210.86,219.33,0.07,-3.8,%
+HARTI_weekly_2025_sample.pdf,25,14,46,14 - 20 Nov 2025,Colombo,wholesale,Onion,Vedalan,LKR,kg,200.0,280.0,240.0,259.29,328.33,-7.44,-26.9,%
+HARTI_weekly_2025_sample.pdf,25,14,46,14 - 20 Nov 2025,Colombo,wholesale,Onion,Imported red onion,LKR,kg,260.0,310.0,287.5,277.5,353.75,3.6,-18.73,%
+HARTI_weekly_2025_sample.pdf,25,14,46,14 - 20 Nov 2025,Colombo,wholesale,Big onion,Imported,LKR,kg,150.0,170.0,163.13,155.71,253.5,4.76,-35.65,%
+HARTI_weekly_2025_sample.pdf,25,14,46,14 - 20 Nov 2025,Colombo,wholesale,Big onion,Local,LKR,kg,165.0,190.0,178.57,159.29,320.0,12.11,-44.2,%
+HARTI_weekly_2025_sample.pdf,25,14,46,14 - 20 Nov 2025,Colombo,wholesale,Potato,Welimada,LKR,kg,220.0,240.0,231.67,229.0,225.0,1.16,2.96,%
+HARTI_weekly_2025_sample.pdf,25,14,46,14 - 20 Nov 2025,Colombo,wholesale,Potato,Nuwara Eliya,LKR,kg,250.0,300.0,277.5,255.0,257.5,8.82,7.77,%
+HARTI_weekly_2025_sample.pdf,25,14,46,14 - 20 Nov 2025,Colombo,wholesale,Potato,Imported,LKR,kg,150.0,170.0,161.25,165.71,150.71,-2.69,6.99,%
+HARTI_weekly_2025_sample.pdf,25,14,46,14 - 20 Nov 2025,Colombo,wholesale,Vegetable,Carrot,LKR,kg,120.0,150.0,135.0,177.78,100.0,-24.06,35.0,%
+HARTI_weekly_2025_sample.pdf,26,15,46,14 - 20 Nov 2025,Colombo and suburbs,retail,Rice,Samba 1,LKR,kg,260.0,280.0,269.05,265.2,245.0,3.85,9.82,LKR/kg
+HARTI_weekly_2025_sample.pdf,26,15,46,14 - 20 Nov 2025,Colombo and suburbs,retail,Rice,Keeri Samba,LKR,kg,320.0,340.0,328.0,323.13,263.85,4.88,24.31,LKR/kg
+HARTI_weekly_2025_sample.pdf,26,15,46,14 - 20 Nov 2025,Colombo and suburbs,retail,Rice,Nadu 1,LKR,kg,230.0,240.0,231.36,231.2,236.67,0.16,-2.24,LKR/kg
+HARTI_weekly_2025_sample.pdf,26,15,46,14 - 20 Nov 2025,Colombo and suburbs,retail,Onion,Vedalan,LKR,kg,380.0,560.0,455.22,457.5,452.8,-2.28,0.53,LKR/kg
+HARTI_weekly_2025_sample.pdf,26,15,46,14 - 20 Nov 2025,Colombo and suburbs,retail,Onion,Imported red onion,LKR,kg,320.0,480.0,385.79,345.71,471.25,40.08,-18.13,LKR/kg
+HARTI_weekly_2025_sample.pdf,26,15,46,14 - 20 Nov 2025,Colombo and suburbs,retail,Big onion,Imported,LKR,kg,180.0,240.0,202.92,179.6,316.52,23.32,-35.89,LKR/kg
+HARTI_weekly_2025_sample.pdf,26,15,46,14 - 20 Nov 2025,Colombo and suburbs,retail,Big onion,Local,LKR,kg,200.0,260.0,229.13,212.08,362.63,17.05,-36.81,LKR/kg
+HARTI_weekly_2025_sample.pdf,26,15,46,14 - 20 Nov 2025,Colombo and suburbs,retail,Potato,Welimada,LKR,kg,340.0,380.0,353.33,311.67,325.0,41.67,8.72,LKR/kg
+HARTI_weekly_2025_sample.pdf,26,15,46,14 - 20 Nov 2025,Colombo and suburbs,retail,Potato,Nuwara Eliya,LKR,kg,380.0,450.0,397.83,382.5,395.31,15.33,0.64,LKR/kg
+HARTI_weekly_2025_sample.pdf,26,15,46,14 - 20 Nov 2025,Colombo and suburbs,retail,Potato,Imported,LKR,kg,200.0,240.0,227.5,232.0,222.89,-4.5,2.07,LKR/kg
+HARTI_weekly_2025_sample.pdf,26,15,46,14 - 20 Nov 2025,Colombo and suburbs,retail,Vegetable,Carrot,LKR,kg,180.0,400.0,286.07,331.5,208.28,-45.43,37.35,LKR/kg
+HARTI_weekly_latest_sample.pdf,25,14,42,16 - 22 Oct 2026,Colombo,wholesale,Rice,Samba 1,LKR,kg,225.0,230.0,226.67,226.25,247.22,0.18,-8.31,%
+HARTI_weekly_latest_sample.pdf,25,14,42,16 - 22 Oct 2026,Colombo,wholesale,Rice,Samba 2,LKR,kg,220.0,222.0,220.8,220.67,241.0,0.06,-8.38,%
+HARTI_weekly_latest_sample.pdf,25,14,42,16 - 22 Oct 2026,Colombo,wholesale,Rice,Keeri Samba,LKR,kg,240.0,265.0,251.67,249.17,316.67,1.0,-20.53,%
+HARTI_weekly_latest_sample.pdf,25,14,42,16 - 22 Oct 2026,Colombo,wholesale,Rice,Nadu 1,LKR,kg,190.0,195.0,192.14,192.5,222.22,-0.19,-13.54,%
+HARTI_weekly_latest_sample.pdf,25,14,42,16 - 22 Oct 2026,Colombo,wholesale,Rice,Nadu 2,LKR,kg,180.0,185.0,182.0,181.67,210.67,0.18,-13.61,%
+HARTI_weekly_latest_sample.pdf,25,14,42,16 - 22 Oct 2026,Colombo,wholesale,Onion,Vedalan,LKR,kg,380.0,450.0,418.33,406.67,260.0,2.87,60.9,%
+HARTI_weekly_latest_sample.pdf,25,14,42,16 - 22 Oct 2026,Colombo,wholesale,Onion,Imported red onion,LKR,kg,350.0,470.0,411.67,381.67,268.33,7.86,53.42,%
+HARTI_weekly_latest_sample.pdf,25,14,42,16 - 22 Oct 2026,Colombo,wholesale,Big onion,Imported,LKR,kg,250.0,270.0,264.0,265.0,155.63,-0.38,69.64,%
+HARTI_weekly_latest_sample.pdf,25,14,42,16 - 22 Oct 2026,Colombo,wholesale,Big onion,Local,LKR,kg,220.0,260.0,240.0,265.0,152.86,-9.43,57.01,%
+HARTI_weekly_latest_sample.pdf,25,14,42,16 - 22 Oct 2026,Colombo,wholesale,Potato,Welimada,LKR,kg,190.0,230.0,212.86,225.0,205.0,-5.4,3.83,%
+HARTI_weekly_latest_sample.pdf,25,14,42,16 - 22 Oct 2026,Colombo,wholesale,Potato,Nuwara Eliya,LKR,kg,240.0,260.0,248.0,268.0,232.5,-7.46,6.67,%
+HARTI_weekly_latest_sample.pdf,25,14,42,16 - 22 Oct 2026,Colombo,wholesale,Potato,Imported,LKR,kg,140.0,230.0,183.75,170.5,176.88,7.77,3.89,%
+HARTI_weekly_latest_sample.pdf,25,14,42,16 - 22 Oct 2026,Colombo,wholesale,Vegetable,Carrot,LKR,kg,200.0,250.0,225.0,220.91,92.73,1.85,142.65,%
+HARTI_weekly_latest_sample.pdf,26,15,42,16 - 22 Oct 2026,Colombo and suburbs,retail,Rice,Samba 1,LKR,kg,240.0,260.0,244.0,242.96,262.86,1.04,-7.17,LKR/kg
+HARTI_weekly_latest_sample.pdf,26,15,42,16 - 22 Oct 2026,Colombo and suburbs,retail,Rice,Keeri Samba,LKR,kg,260.0,320.0,281.9,276.67,324.0,5.24,-12.99,LKR/kg
+HARTI_weekly_latest_sample.pdf,26,15,42,16 - 22 Oct 2026,Colombo and suburbs,retail,Rice,Nadu 1,LKR,kg,220.0,230.0,225.83,227.42,233.91,-1.59,-3.45,LKR/kg
+HARTI_weekly_latest_sample.pdf,26,15,42,16 - 22 Oct 2026,Colombo and suburbs,retail,Onion,Vedalan,LKR,kg,500.0,600.0,567.62,553.64,419.5,13.98,35.31,LKR/kg
+HARTI_weekly_latest_sample.pdf,26,15,42,16 - 22 Oct 2026,Colombo and suburbs,retail,Onion,Imported red onion,LKR,kg,480.0,600.0,562.5,557.14,293.33,5.36,91.76,LKR/kg
+HARTI_weekly_latest_sample.pdf,26,15,42,16 - 22 Oct 2026,Colombo and suburbs,retail,Big onion,Imported,LKR,kg,280.0,340.0,318.33,296.36,172.61,21.97,84.42,LKR/kg
+HARTI_weekly_latest_sample.pdf,26,15,42,16 - 22 Oct 2026,Colombo and suburbs,retail,Big onion,Local,LKR,kg,280.0,360.0,325.45,312.73,200.5,12.73,62.32,LKR/kg
+HARTI_weekly_latest_sample.pdf,26,15,42,16 - 22 Oct 2026,Colombo and suburbs,retail,Potato,Welimada,LKR,kg,280.0,320.0,292.0,295.0,345.56,-3.0,-15.5,LKR/kg
+HARTI_weekly_latest_sample.pdf,26,15,42,16 - 22 Oct 2026,Colombo and suburbs,retail,Potato,Nuwara Eliya,LKR,kg,350.0,480.0,400.0,412.63,405.5,-12.63,-1.36,LKR/kg
+HARTI_weekly_latest_sample.pdf,26,15,42,16 - 22 Oct 2026,Colombo and suburbs,retail,Potato,Imported,LKR,kg,180.0,240.0,216.67,221.11,242.61,-4.44,-10.69,LKR/kg
+HARTI_weekly_latest_sample.pdf,26,15,42,16 - 22 Oct 2026,Colombo and suburbs,retail,Vegetable,Carrot,LKR,kg,250.0,560.0,397.14,391.07,266.25,6.07,49.16,LKR/kg
